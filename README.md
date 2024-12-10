@@ -2,8 +2,15 @@
 
 ## With our adjustments of packages and node version
 Download NVM for desktop from here https://github.com/coreybutler/nvm-windows/releases
+
+Install version 16
 ```
-PS C:\WINDOWS\system32> nvm install 16
+nvm install 16
+```
+
+Use version 16
+```
+nvm use 16
 ```
 
 Install packages
@@ -15,6 +22,8 @@ Run app
 ```
 npm run dev
 ```
+
+See live changes at: [http://localhost:3000](http://localhost:3000)
 
 ## From NINE4 TEMPLATE #2
 
