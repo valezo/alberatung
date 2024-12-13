@@ -7,14 +7,14 @@ export default function Main() {
           Ne po bëjmë një punë të mrekullueshme bashkë
           </h1>
           <p className="mb-4 xl:w-3/4 text-gray-600 text-lg">
-            AL BERATUNG- eshte nje kompani e cila ka per qellim t'u ndihmoje ne lidhje me pergaditjen e dokumenteve qe duhet dorezuar ne institucione shteterore. 
+            AL BERATUNG- është një kompani e cila ka për qëllim t'u ndihmojë në lidhje me përgaditjen e dokumenteve që duhet dorëzuar në institucione shtetërore. 
           </p>
           <div className="flex justify-center">
             <a
               className="inline-flex items-center px-5 py-3 mt-2 font-medium text-white transition duration-500 ease-in-out transform bg-transparent border rounded-lg bg-gray-900"
               href="https://github.com/r1/nine4-2/"
             >
-              <span className="justify-center">Zbuloni me shume →</span>
+              <span className="justify-center">Zbuloni më shumë →</span>
             </a>
           </div>
         </div>

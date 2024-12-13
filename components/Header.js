@@ -50,7 +50,7 @@ export default function Header() {
                   href="/"
                   className="font-medium text-gray-600 hover:text-gray-900 px-5 py-3 flex items-center transition duration-150 ease-in-out"
                 >
-                  Sherbimet
+                  Shërbimet
                 </a>
               </li>
               <li>
@@ -58,7 +58,7 @@ export default function Header() {
                   href="/"
                   className="font-medium text-gray-600 hover:text-gray-900 px-5 py-3 flex items-center transition duration-150 ease-in-out"
                 >
-                  Per ne
+                  Për ne
                 </a>
               </li>
               <li>
