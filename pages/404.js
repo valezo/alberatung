@@ -7,16 +7,14 @@ export default function Contact() {
   return (
     <div className="text-black">
       <NextSeo
-        title="404: nine4"
+        title="404: ALBERATUNG"
         description="404 page for all our missing pages"
-        canonical="https://nine4-2.vercel.app/404"
         openGraph={{
           url: "https://nine4-2.vercel.app/404",
         }}
       />
       <Head>
-        <title>nine4</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/images/logo.jpg?v=3" />
       </Head>
       <Header />
       <div className="flex flex-col justify-center mx-auto mt-52 text-center max-w-2x1">
