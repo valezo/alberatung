@@ -3,11 +3,16 @@ export default function Main() {
     <section className="text-gray-600 body-font">
       <div className="max-w-7xl mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
         <div className="lg:flex-grow md:w-1/2 md:ml-24 pt-6 flex flex-col md:items-start md:text-left mb-40 items-center text-center">
-          <h1 className="mb-5 sm:text-5xl text-5xl items-center Avenir xl:w-2/2 text-gray-900">
-          Ne po bëjmë një punë të mrekullueshme bashkë
+          <h1 className="sm:text-5xl text-5xl items-center Avenir xl:w-2/2 text-gray-900">
+            Kush eshte
           </h1>
+          <div className="mt-0 mb-0">
+            <img src="/images/logo.jpg" width={"240px"} alt="" />
+          </div>
           <p className="mb-4 xl:w-3/4 text-gray-600 text-lg">
-            AL BERATUNG- është një kompani e cila ka për qëllim t'u ndihmojë në lidhje me përgaditjen e dokumenteve që duhet dorëzuar në institucione shtetërore. 
+            AL BERATUNG- është një kompani e cila ka për qëllim t'u ndihmojë në
+            lidhje me përgaditjen e dokumenteve që duhet dorëzuar në
+            institucione shtetërore.
           </p>
           <div className="flex justify-center">
             <a
@@ -32,7 +37,6 @@ export default function Main() {
             <h1 className="mb-8 text-2xl Avenir font-semibold text-black">
               Trusted by top-tier product companies
             </h1>
-          
           </div>
           <div className="grid grid-cols-2 gap-16 mb-16 text-center lg:grid-cols-4">
             <div className="flex items-center justify-center">
