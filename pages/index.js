@@ -16,9 +16,9 @@ export default function Home() {
         }}
       />
       <Head>
-        <title>nine4</title>
-        <link rel="icon" href="/favicon.ico" />
-      </Head>
+        <title>ALBERATUNG</title>
+        <link rel="icon" href="/images/logo.jpg?v=3" />      
+        </Head>
       <Header />
       <Main />
       <Footer />
