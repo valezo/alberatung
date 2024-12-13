@@ -8,8 +8,8 @@ export default function Home() {
   return (
     <div className="text-black">
       <NextSeo
-        title="Home: nine4"
-        description="Welcome to nine4 homepage."
+        title="Home: ALBERATUNG"
+        description="Welcome to ALBERATUNG homepage."
         canonical="https://nine4-2.vercel.app/"
         openGraph={{
           url: "https://nine4-2.vercel.app/",
