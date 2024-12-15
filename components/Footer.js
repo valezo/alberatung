@@ -192,7 +192,7 @@ export default function Footer() {
               href="/"
               className="text-md text-black transition-colors duration-300 hover:text-deep-purple-accent-400 font-semibold tracking-tight"
             >
-              © 2024/2025
+              © 2024
             </a>
           </ul>
         </div>
