@@ -95,7 +95,7 @@ Ne ju ofrojmë mbështetje profesionale në kohë optimale pa pasur nevojë për
   ></img> */}
   </div>
   </div>
-  <section className="relative">
+  {/* <section className="relative">
   <div className="max-w-6xl mx-auto px-4 sm:px-6 text-center">
   <div className="py-24 md:py-36">
   <h1 className="mb-5 text-6xl Avenir font-semibold text-gray-900">
@@ -119,7 +119,7 @@ Ne ju ofrojmë mbështetje profesionale në kohë optimale pa pasur nevojë për
   </a>
   </div>
   </div>
-  </section>
+  </section> */}
   </section>
   );
   }
