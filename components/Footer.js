@@ -221,7 +221,7 @@ export default function Footer() {
               href="/"
               className="text-md text-gray-500 transition-colors duration-300 font-semibold tracking-tight"
             >
-              © 2024/2025
+              © 2024
             </a>
           </ul>
         </div>
