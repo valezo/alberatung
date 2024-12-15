@@ -17,11 +17,13 @@ export default function Main() {
           <h3 className="mb-3 xl:w-2/3  text-gray-600 text-lg text-center mx-auto">
             Ne ju ofrojmë mbështetje profesionale në kohë optimale pa pasur nevojë për pritje të gjata për termine. Shumica e shërbimeve tona ofrohen online, natyrisht ne ju mirëpresim edhe në zyrën tonë.
           </h3>
-
-          <p className="mb-5 xl:w-4/5 text-black text-5xl text-center mx-auto mt-11">
-            <b> Konsultohu shqip</b>
-          </p>
-          <p className="mb-4 xl:w-2/3  text-gray-600 text-lg text-center mx-auto"> Me një gamë të gjerë, me përkushtim dhe profesionalizëm, ju kryeni punët tuaja shpejt, dhe më e mira, ju merreni vesh me konsultentin tuaj shqip. </p>
+          <div id="konsultohu">
+            <p className="mb-5 xl:w-4/5 text-black text-5xl text-center mx-auto mt-36"
+            >
+              <b> Konsultohu shqip</b>
+            </p>
+            <p className="mb-4 xl:w-2/3  text-gray-600 text-lg text-center mx-auto"> Me një gamë të gjerë, me përkushtim dhe profesionalizëm, ju kryeni punët tuaja shpejt, dhe më e mira, ju merreni vesh me konsultentin tuaj shqip. </p>
+          </div>
           {/* Me një gamë të gjerë shërbimesh, me përkushtim dhe profesionalizëm, ju kryeni punët tuaja shpejt, dhe më e mira, ju merreni vesh me konsulentin tuaj shqip. */}
           {/* <div className="flex justify-center">
   <a
@@ -79,8 +81,10 @@ export default function Main() {
   </div>
   </div>
   </section> */}
-      <div className="grr max-w-7xl mx-auto text-center">
-        <h1 className="mb-8 text-4xl Avenir font-semibold  text-black">
+      <div className="grr max-w-7xl mx-auto text-center"
+        id="adresa">
+
+        <h1 className=" text-4xl Avenir font-semibold  text-black mb-8">
           <b> Ku gjendemi ne? </b>
         </h1>
         <h1 className="mb-8 text-2xl Avenir font-semibold text-gray-600 text-center">
