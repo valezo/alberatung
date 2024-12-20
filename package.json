@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "export": "next export",
-    "deployprod": "GH_PAGES=true npm run build && npm run export && gh-pages -d out",
+    "deployprod": "npm run build && npm run export && gh-pages -d out",
     "deploylocal": "npm run build && npm run export"
   },
   "dependencies": {
@@ -21,7 +21,6 @@
     "tailwindcss": "2.0.2"
   },
   "devDependencies": {
-    "cross-env": "^7.0.3",
     "gh-pages": "^6.2.0"
   }
 }
