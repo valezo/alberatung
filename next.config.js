@@ -1,7 +1,9 @@
+const isProd = process.env.GH_PAGES === 'true';
+
 const nextConfig = {
   output: 'export',
-  basePath: '',
-  assetPrefix: './',
+  assetPrefix: isProd ? '/alberatung/' : './',
+  basePath: isProd ? '/alberatung' : '',
   trailingSlash: true,
 };
 
