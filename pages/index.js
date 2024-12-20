@@ -17,7 +17,7 @@ export default function Home() {
       />
       <Head>
         <title>ALBERATUNG</title>
-        <link rel="icon" href="/images/logo.jpg?v=3" />
+        <link rel="icon" href="images/logo.jpg?v=3" />
       </Head>
       <Header />
       <Main />

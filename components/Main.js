@@ -7,7 +7,7 @@ export default function Main() {
           {/* Kush eshte */}
           {/* </h1> */}
           <div className="mt-0 mb-0 mx-auto" >
-            <img src="/images/logo - homepage.jpg" width={"450px"} />
+            <img src="images/logo - homepage.jpg" width={"450px"} />
           </div>
           <p className="mb-4 xl:w-2/3 text-gray-600 text-lg text-center mx-auto">
             Kompani e cila ka për qëllim t'u ndihmojë në

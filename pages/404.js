@@ -16,7 +16,7 @@ export default function Contact() {
       />
       <Head>
       <title>404: ALBERATUNG</title>
-        <link rel="icon" href="/images/logo.jpg?v=3" />
+        <link rel="icon" href="images/logo.jpg?v=3" />
       </Head>
       <Header />
       <div className="flex flex-col justify-center mx-auto mt-52 text-center max-w-2x1">

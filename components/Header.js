@@ -11,7 +11,7 @@ export default function Header() {
             href="/"
             className="text-lg font-semibold rounded-lg tracking-widest focus:outline-none focus:shadow-outline"
           >
-          <img src="/images/logo.jpg" width={"80px"}/>
+          <img src="images/logo.jpg" width={"80px"}/>
           </a>
           <button
             className="text-white cursor-pointer leading-none px-3 py-1 md:hidden outline-none focus:outline-none "

@@ -1,8 +1,8 @@
-/** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export',
-  basePath: '/alberatung',
-  assetPrefix: '/alberatung/',
+  basePath: '',
+  assetPrefix: './',
+  trailingSlash: true,
 };
 
 module.exports = nextConfig;
